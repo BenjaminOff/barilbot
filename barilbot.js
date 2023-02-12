@@ -18,7 +18,7 @@ var servers = {};
 
 
 
-client.login('OTYyNjM2NzU4ODcxMzEwNDE2.Gej-nT.ncE0h33989lHlADdjAL-zgvHAAPIa4Av9yQK1I');
+client.login('');
 client.on("ready", () => {
     console.log("vener jouer avec baril");
   });
